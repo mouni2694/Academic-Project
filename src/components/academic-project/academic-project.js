@@ -28,7 +28,7 @@ const AcademicProject = (props) => {
           <p>Python Projects</p>
         </div>
         <div className="col-md-4 pb-4">
-          <p>JavaScript Projects</p>
+          <p>Django Projects</p>
         </div>
         <div className="col-md-4 pb-4 ">
           <p>React JS Projects</p>
@@ -37,30 +37,30 @@ const AcademicProject = (props) => {
       </div>
       <div className = "row">
         <div className = "col-md-4 pb-4">
-          <p>Django Projects</p>
+          <p>Java Projects</p>
 
         </div>
         <div className = "col-md-4 pb-4">
-          <p>SQL Projects</p> 
+          <p>.Net Projects</p> 
 
         </div>
         <div className = "col-md-4 pb-4">
-          <p>Wireless Networking Projects</p>
+          <p>R Projects</p>
 
         </div>
 
       </div>
       <div className = "row">
         <div className = "col-md-4 pb-4">
-          <p>BigData Projects</p>
+          <p>ML Projects</p>
 
         </div>
         <div className = "col-md-4 pb-4">
-          <p>Embedded Projects</p>
+          <p>DL Projects</p>
 
         </div>
         <div className = "col-md-4 pb-4">
-          <p>VLSI Projects</p>
+          <p>AI Projects</p>
 
         </div>
 
@@ -68,15 +68,15 @@ const AcademicProject = (props) => {
       </div>
       <div className = "row">
         <div className = "col-md-4 pb-4">
-          <p>Bio-Medical Project</p>
+          <p>HTML Project</p>
 
         </div>
         <div className = "col-md-4 pb-4">
-          <p>Power Electronics Projects</p>
+          <p>css Projects</p>
 
         </div>
         <div className = "col-md-4 pb-4">
-          <p>Power System Projects</p>
+          <p>Javascript Projects</p>
 
         </div>
 
@@ -84,34 +84,21 @@ const AcademicProject = (props) => {
 
       <div className = "row">
         <div className = "col-md-4 pb-4">
-          <p>IoT Projects</p>
+          <p>Machine Learning Projects</p>
 
         </div>
         <div className = "col-md-4 pb-4">
-          <p>Signal Processing Projects</p>
+          <p>Manual Testing Projects</p>
 
         </div>
 
         <div className = "col-md-4 pb-4">
-          <p>Android Projects</p>
+          <p>Power Bi Projects</p>
 
         </div>
       </div>
 
-      <div class = "row">
-        <div class = "col-md-4 pb-4">
-          <p>Web Application Projects</p>
-        </div>
-        <div className = "col-md-4 pb-4">
-          <p>Bio Informatics Projects</p>
-
-        </div>
-        <div className = "col-md-4 pb-4">
-          <p>Grid Computing Projects</p>
-
-        </div>
-
-      </div>
+      
            
           </div>
 
